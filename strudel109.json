@@ -1,0 +1,10 @@
+{
+  "_base": "https://raw.githubusercontent.com/Monsterovich/necromancer-strudel/main/",
+  "vox_01_verseA": "vox109/vox_01_verseA.wav",
+  "vox_02_verseB": "vox109/vox_02_verseB.wav",
+  "vox_03_chorus": "vox109/vox_03_chorus.wav",
+  "vox_04_hook": "vox109/vox_04_hook.wav",
+  "vox_05_verseC": "vox109/vox_05_verseC.wav",
+  "vox_06_verseD": "vox109/vox_06_verseD.wav",
+  "vox_07_finale": "vox109/vox_07_finale.wav"
+}

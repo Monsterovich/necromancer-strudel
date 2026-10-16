@@ -196,10 +196,10 @@ $: note(`<
 
 // ═══════════════════════════════════════════════════════════════
 //  ВОКАЛ — нарезка под сетку 109 BPM (1 такт = 1 цикл = 2.2018с)
-//  lead+backing смиксованы; файлы в ./vox/vox_01..07.wav
+//  lead+backing смиксованы; файлы в ./vox109/vox_01..07.wav
 //  1 такт = 4 доли @109. Вход вокала: такты 12,28,36,48,52,69,93
 // ═══════════════════════════════════════════════════════════════
-samples('https://raw.githubusercontent.com/Monsterovich/necromancer-strudel/main/strudel.json?v=2');
+samples('https://raw.githubusercontent.com/Monsterovich/necromancer-strudel/main/strudel109.json');
 // альтернатива: samples('github:Monsterovich/necromancer-strudel');
 
 const VOXSHIFT = 0;   // общий сдвиг вокала в тактах (подстройка по вкусу)
